@@ -1,27 +1,3 @@
-/**	
-	* Template Name: MU Material
-	* Version: 1.1	
-	* Template Scripts
-	* Author: MarkUps
-	* Author URI: http://www.markups.io/
-
-	Custom JS
-	
-	1. MOBILE MENU
-	2. EXPERIENCE SLIDER (Owl Carousel)
-	3. EDUCATION SLIDER (Owl Carousel)
-	4. LIGHTBOX ( FOR PORTFOLIO POPUP VIEW ) 
-	5. COUNTER
-	6. TESTIMONIAL SLIDER ( Owl Carousel )	
-	7. MENU SMOOTH SCROLLING
-	8. PRELOADER
-	9. CALL TO ABOUT
-	10. BOTTOM TO UP 
-	11. PARALLAX HEADER
-	12. HIRE ME SCROLL
-	
-	
-**/
 
 jQuery(function($){
 
